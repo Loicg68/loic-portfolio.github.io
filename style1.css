@@ -1,0 +1,15 @@
+body{
+	background-color: gray;
+	font-family:"palatino linotype", palatino, serif;
+}
+h1{
+	color:white;
+	background-color: orange;
+	font-family: cursive;
+}
+li{
+	font-family: cursive;	
+}
+figcaption{
+	color: white;
+}
